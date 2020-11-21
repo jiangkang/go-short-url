@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="94a2c769-e1f3-4a7d-a850-149da4739cbf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/go-short-url.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,10 +80,10 @@
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="520" y="278" key="#Go_Modules/0.23.1440.830@0.23.1440.830" timestamp="1605965137496" />
-    <state x="306" y="40" key="CommitChangelistDialog2" timestamp="1605980025325">
+    <state x="306" y="40" key="CommitChangelistDialog2" timestamp="1605980075962">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="306" y="40" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1605980025325" />
+    <state x="306" y="40" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1605980075962" />
     <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1605979671635">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -133,10 +128,10 @@
     </state>
     <state width="1398" height="312" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1605976025273" />
     <state width="1398" height="312" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1605978989858" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1605980028761">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1605980079368">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1605980028761" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1605980079368" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
