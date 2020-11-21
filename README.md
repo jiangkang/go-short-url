@@ -1,2 +1,14 @@
 # go-short-url
-short url service written by golang
+一个简单的短链接服务实现
+
+
+## 目前的功能
+- 短链接转换服务
+- 支持设置过期时间
+
+
+## 目前的问题
+- 同一个url创建的短链接应该是相同的，但是此时不是相同的
+- 缺失统计功能
+- 缺少redis灵活配置
+- 缺少host灵活配置

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94a2c769-e1f3-4a7d-a850-149da4739cbf" name="Default Changelist" comment="" />
+    <list default="true" id="94a2c769-e1f3-4a7d-a850-149da4739cbf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,14 +18,20 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kbHY9jKmXQ6KDWznUHa8okFkft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
@@ -56,6 +64,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -64,26 +78,34 @@
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="520" y="278" key="#Go_Modules/0.23.1440.830@0.23.1440.830" timestamp="1605965137496" />
-    <state width="1398" height="312" key="GridCell.Tab.0.bottom" timestamp="1605978989857">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state x="306" y="40" key="CommitChangelistDialog2" timestamp="1605979702765">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="306" y="40" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1605979702765" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1605979671635">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1398" height="353" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1605978645516" />
     <state width="1398" height="312" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1605978989857" />
-    <state width="1398" height="312" key="GridCell.Tab.0.center" timestamp="1605978989856">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1605979671635" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1605979671634">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1398" height="353" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1605978645516" />
     <state width="1398" height="312" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1605978989856" />
-    <state width="1398" height="312" key="GridCell.Tab.0.left" timestamp="1605978989856">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1605979671634" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1605979671634">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1398" height="353" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1605978645515" />
     <state width="1398" height="312" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1605978989856" />
-    <state width="1398" height="312" key="GridCell.Tab.0.right" timestamp="1605978989857">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1605979671634" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1605979671634">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1398" height="353" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1605978645516" />
     <state width="1398" height="312" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1605978989857" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1605979671634" />
     <state width="1398" height="312" key="GridCell.Tab.1.bottom" timestamp="1605978989859">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
@@ -104,6 +126,10 @@
     </state>
     <state width="1398" height="312" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1605976025273" />
     <state width="1398" height="312" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1605978989858" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1605979709910">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1605979709910" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
